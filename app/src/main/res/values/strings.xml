@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FormSubmission</string>
+    <string name="hint_id_typ">ID Type</string>
+    <string name="hint_id_no">ID Number</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email ID</string>
+    <string name="hint_mobile">Mobile Number</string>
+    <string name="btn_form_submit">Save Form</string>
+    <string name="err_msg_name">Enter your name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_mobile">Enter valid mobile number</string>
+    <string name="err_msg_id_typ">Select ID type</string>
+    <string name="err_msg_id_no">Enter valid ID number</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="spinner_title">Select ID Type</string>
+    <string name="scan_text">Scan bar code</string>
+    <string name="view_form">View Forms</string>
+    <string name="label_id_typ">ID Type</string>
+    <string name="label_id_num">ID Number</string>
+    <string name="label_name">Name</string>
+    <string name="label_email">Email</string>
+    <string name="label_mob">Mobile Number</string>
+</resources>
